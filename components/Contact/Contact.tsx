@@ -43,7 +43,7 @@ const Contact = () => {
         {/* Image */}
         <div className='w-full h-full'>
           <Image
-            src='/work2.png'
+            src='/work2.webp'
             width={700}
             height={458}
             alt='Work example'
